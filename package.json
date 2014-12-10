@@ -1,11 +1,11 @@
 {
   "author": "Julien Genestoux <julien@superfeedr.com> (http://ouvre-boite.com)",
-  "name": "backbone-indexeddb",
+  "name": "backbone-indexeddb-fork",
   "description": "A backbone adapter for indexeddb. Useless for most people until indexeddb is ported to the browser.",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "repository": {
     "type": "git",
-    "url": "git://github.com/superfeedr/indexeddb-backbonejs-adapter.git"
+    "url": "git://github.com/johanpoirier/indexeddb-backbonejs-adapter.git"
   },
   "main": "backbone-indexeddb.js",
   "scripts": {
